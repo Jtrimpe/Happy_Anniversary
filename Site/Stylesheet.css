@@ -32,7 +32,7 @@ ul li {
 }
 
 header .logo a {
-    background-image: url("Pictures/images.png");
+    background-image: url("");
     background-size: 50px;
     background-repeat: no-repeat;
     display: inline-block;
